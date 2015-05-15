@@ -1,0 +1,1 @@
+Shutterbugg is a website for photo-sharing app.
