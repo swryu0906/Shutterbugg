@@ -46,6 +46,11 @@ a {
 	border-bottom: 1px solid #dbdbdb;
 }
 
+.right-block {
+	display: block;
+	margin-left: auto;
+}
+
 .store {
 	text-align: center;
 	border-bottom: 0px;
@@ -60,10 +65,22 @@ a {
 
 .footer ul {
 	list-style-type: none;
-	padding-left;
+	padding-left: 0;
 }
 
 .footer li {
 	color: #999;
 	font-weight: 600;
+}
+
+.footer h2 {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.footer a {
+	font-size: 14px;
+	font-weight: 800;
+	text-decoration: none;
+	color: #555555;
 }
